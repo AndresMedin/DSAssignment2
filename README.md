@@ -34,6 +34,7 @@ Github To Replit
   9. Once you're satisfied with the code, click the "Run" button at the top of the Replit interface to compile and execute your program.
 
 OR!!!!!!! (again c:)
+
   If youre lazy like me I went ahead and pasted the link to my replit with all the files ready to use! Keep in mind in this assignment there is two replits, each on runs differently (you will see when it asks you to input a value)
   
   ***(I use Replit to code, so I hope it is not too much of an issue that I post the instructions on how to use it, I was once lost using it and now it's my Holy Grail)***
